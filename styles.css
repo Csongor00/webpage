@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(ho_hatter.jpg);
+}
+
+
+#header{
+    width: 100%;
+    height: 58px;
+    background: url("esti_hatter.jpg") repeat;
+    color: white;
+}
+#header h1{
+    height: 58px;
+    letter-spacing: 25px;
+    margin: 0;
+    padding: 8px 0;
+    text-align: center;
+}
+#cim h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main{
+    float: left;
+    margin-left: 19%;
+    padding: 5px;
+    width: 80%;
+    
+}
+#szoveg{
+    font-family:'Times New Roman', Times, serif;
+    color: indigo;
+    
+}
+p {
+    font-size: large;
+}
+#kep{
+    text-align: right;
+}
+
+
